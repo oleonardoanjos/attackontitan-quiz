@@ -1,0 +1,152 @@
+{
+    "bg": "https://i.imgur.com/ifmeyL9.png",
+    "title": "Attack on Titan Quiz",
+    "description": "Teste os seus conhecimentos sobre um dos melhores animes",
+    "questions": [
+      {
+        "image": "https://i.imgur.com/JxBrbGl.gif",
+        "title": "Quem criou Attack on Titan?",
+        "description": "Essa é para aquecer",
+        "answer": 0,
+        "alternatives": [
+          "Hajime Isayama",
+          "Yusuke Kishi",
+          "Shuzo Oshime",
+          "Yuki Tabata",
+          "Tite Kubo"
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/Z091KJn.gif",
+        "title": "Quais são os nomes das três muralhas?",
+        "description": "Essa não é difícil",
+        "answer": 0,
+        "alternatives": [
+           "Sina, Rose, Maria",
+           "Charlos, Maria, Alpha",
+           "Omega, Zora, Rose",
+           "Sina, Delta, Maria",
+           "Joao, Maria, Jose" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/y6d9nT4.gif",
+        "title": "Qual é o nome da PRIMEIRA esposa de Grisha Jaeger?",
+        "description": "Só quem presta atenção nos detalhes vai acertar",
+        "answer": 3,
+        "alternatives": [
+           "Carla Jaeger",
+           "Frida Reiss",
+           "Fay Jaeger",
+           "Dina Fritz",
+           "Maria Fritz" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/3UjZG68.gif",
+        "title": "Um pouco antes de um Titã comer Eren na primeira temporada, quem ele salva?",
+        "description": "Essa está muito óbvia",
+        "answer": 1,
+        "alternatives": [
+           "Mikasa",
+           "Armin",
+           "Thomas",
+           "Jean",
+           "Reiner" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/h8akst6.gif",
+        "title": "Qual é o primeiro Novo titã a ser apresentado na segunda temporada?",
+        "description": "Essa você não vai se lembrar",
+        "answer": 1,
+        "alternatives": [
+           "Titã Fundador",
+           "Titã Bestial",
+           "Titã Colossal",
+           "Titã Quadrupede",
+           "Titã Mandíbula" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/t2HRDhW.gif",
+        "title": "Quando criança, por quem Ymir foi levada?",
+        "description": "Essa ta bem aleatória",
+        "answer": 3,
+        "alternatives": [
+           "Militares",
+           "Nobres",
+           "Titãs",
+           "Um culto",
+           "Agentes secretos" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/waBUA8h.gif",
+        "title": "O que acontece com Hannes no fim da segunda temporada?",
+        "description": "Olha a pegadinha",
+        "answer": 4,
+        "alternatives": [
+           "Ele sai para explorar além das muralhas",
+           "Ele trai o eren",
+           "Ele ganha uma promoção hierárquica",
+           "Ele se aposenta",
+           "Ele é devorado por um titã" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/DsvlIVP.gif",
+        "title": "Quem faz o plano para derrubar o governo?",
+        "description": "Somente 1 deles seria inteligente e audacioso para fazer isso",
+        "answer": 4,
+        "alternatives": [
+           "Rod Reiss",
+           "Armin",
+           "Reeves",
+           "Dot Pyxis",
+           "Erwin" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/RrBOF1L.gif",
+        "title": "Qual o maior sonho do Levi Ackerman no anime?",
+        "description": "Essa você vai errar",
+        "answer": 0,
+        "alternatives": [
+           "Criar uma loja de chá",
+           "Se vingar dos titans",
+           "Fazer uma família",
+           "Conhecer o seu pai",
+           "Para de caçar ps titans" 
+        ]
+      },
+      {
+        "image": "https://i.imgur.com/7xAY57d.gif",
+        "title": "Quem é o atual portador do Titan Colossal?",
+        "description": "Só quem está acompanhando o anime vai acertar",
+        "answer": 2,
+        "alternatives": [
+           "Mikasa",
+           "Levi",
+           "Armin",
+           "Hange",
+           "Sasha" 
+        ]
+      }
+    ],
+    "external": [
+      "https://aluraquiz-css.omariosouto.vercel.app/",
+      "https://aluraquiz-devsoutinho.omariosouto.vercel.app/"
+    ],
+    "theme": {
+      "colors": {
+        "primary": "#F2A03C",
+        "secondary": "#F27229",
+        "mainBg": "#3F1607",
+        "contrastText": "#FFFFFF",
+        "wrong": "#F23207",
+        "success": "#8C1F07"
+      },
+      "borderRadius": "4px"
+    }
+  }
