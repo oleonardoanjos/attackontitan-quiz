@@ -34,19 +34,19 @@ export default function App({ Component, pageProps }) {
       <Head>
         <title>db.title</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport" />
-        <meta name="title" content="Attack on Titan" key="title" />
-        <meta name="description" content="" key="description" />
+        <meta name="title" content={db.title} key="title" />
+        <meta name="description" content={db.description} key="description" />
 
         <meta property="og:type" content="website" key="type" />
         <meta property="og:url" content="https://attackontitan-quiz.oleonardoanjos.vercel.app/" key="url" />
-        <meta property="og:title" content="Attack on Titan" key="ogtitle" />
-        <meta property="og:description" content="" key="ogdescription" />
+        <meta property="og:title" content={db.title} key="ogtitle" />
+        <meta property="og:description" content={db.description} key="ogdescription" />
         <meta property="og:image" content={db.bg} key="ogimage" />
 
         <meta property="twitter:card" content="summary_large_image" key="twittercard" />
         <meta property="twitter:url" content="https://attackontitan-quiz.oleonardoanjos.vercel.app/" key="twitterurl" />
-        <meta property="twitter:title" content="Attack on Titan" key="twittertitle" />
-        <meta property="twitter:description" content="" key="twitterdescription" />
+        <meta property="twitter:title" content={db.title} key="twittertitle" />
+        <meta property="twitter:description" content={db.description} key="twitterdescription" />
         <meta property="twitter:image" content={db.bg} key="twitterimage" />
 
         <link rel="icon" type="image/png" sizes="32x32" href="favicon.png" />
