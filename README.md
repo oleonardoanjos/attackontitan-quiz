@@ -3,6 +3,7 @@
 <p align="center"> 
   <a href="https://attackontitan-quiz.oleonardoanjos.vercel.app/" target="_blank">
     <img height="600" src="attack-on-titan.jpg"/>
+  </a>  
 </p>
 
 ## How to use
