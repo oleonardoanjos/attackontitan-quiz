@@ -2,6 +2,7 @@
 /* eslint-disable react/no-array-index-key */
 /* eslint-disable react/prop-types */
 import React from 'react';
+import Head from 'next/head';
 import QuizLogo from '../../components/QuizLogo';
 import QuizBackground from '../../components/QuizBackground';
 import QuizContainer from '../../components/QuizContainer';
@@ -48,6 +49,13 @@ export default function QuizPage({ externalQuestions, externalBg }) {
 
   return (
     <QuizBackground backgroundImage={bg}>
+      <Head>
+        <title>
+          Attack on Titan
+          {' '}
+          - Quiz
+        </title>
+      </Head>
       <QuizContainer>
         <QuizLogo />
         {screenState === screenStates.QUIZ && (

@@ -22,7 +22,9 @@ export default function Home() {
     <QuizBackground backgroundImage={db.bg}>
       <Head>
         <title>
-          {db.title}
+          Attack on Titan
+          {' '}
+          - Home
         </title>
       </Head>
       <QuizContainer>

@@ -1,5 +1,7 @@
 {
-    "bg": "https://i.imgur.com/ifmeyL9.png",
+    "bg": "bg.png",
+    "thumb": "thumb.png",
+    "favicon": "favicon.png",
     "title": "Attack on Titan Quiz",
     "description": "Teste os seus conhecimentos sobre um dos melhores animes",
     "questions": [

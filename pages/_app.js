@@ -32,7 +32,6 @@ export default function App({ Component, pageProps }) {
   return (
     <>
       <Head>
-        <title>db.title</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport" />
         <meta name="title" content={db.title} key="title" />
         <meta name="description" content={db.description} key="description" />
@@ -49,7 +48,7 @@ export default function App({ Component, pageProps }) {
         <meta property="twitter:description" content={db.description} key="twitterdescription" />
         <meta property="twitter:image" content={db.bg} key="twitterimage" />
 
-        <link rel="icon" type="image/png" sizes="32x32" href="favicon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href={db.favicon} />
         <link rel="preconnect" href="https://fonts.gstatic.com" />
         <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap" rel="stylesheet" />
       </Head>

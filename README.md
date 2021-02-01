@@ -1,7 +1,7 @@
 # Quiz criado durante a Imersão React com NextJS e Styled Components da Alura.
 
 <p align="center"> 
-  <a href="https://attackontitan-quiz.oleonardoanjos.vercel.app/" target="_blank">
+  <a href="https://attackontitan-quiz.oleonardoanjos.vercel.app/">
     <img height="600" src="attack-on-titan.jpg"/>
   </a>  
 </p>
